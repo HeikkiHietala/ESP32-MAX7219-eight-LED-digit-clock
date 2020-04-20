@@ -10,8 +10,8 @@
 
 DHT dht(DHTPIN, DHTTYPE);
 // network settings
-const char* ssid       = "moaiwlan";
-const char* password   = "Ossi1Paavo234";
+const char* ssid       = "YOUR_SSID_HERE";
+const char* password   = "YOUR_PASSWORD_HERE";
 
 //time service settings
 const char* ntpServer = "pool.ntp.org"; //server address
